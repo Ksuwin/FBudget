@@ -1,2 +1,2 @@
 # FBudget
-Coursera Capstone ProjectFamily Budget System 
+Coursera Capstone Project: Family Budget System 
